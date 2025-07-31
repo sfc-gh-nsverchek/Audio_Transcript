@@ -1,2 +1,2 @@
 
-<img src='../images/directory.png' width=60%>
+<img src='../../images/directory.png' width=60%>
