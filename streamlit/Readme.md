@@ -8,4 +8,4 @@ Few things here.
 
 Here are the installed packages. 
 
-![Alt text](../images/streamlit packages.png)
+![Alt text](../../images/streamlit packages.png)
