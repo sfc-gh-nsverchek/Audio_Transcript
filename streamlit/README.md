@@ -6,4 +6,4 @@ I hope someone will update the app to only return results where a ranking is at 
 I am not sure how this will scale to thousands / hundreds of thousands of calls. I have trouble getting Cortex people to answer this.
 Here are the installed packages.
 
-![Alt text](images/streamlit packages.png)
+![Alt text](../images/streamlit packages.png)
