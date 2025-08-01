@@ -44,6 +44,15 @@ GRANT OWNERSHIP ON COMPUTE POOL PAYERS_GPU_POOL TO ROLE SYSADMIN;
 GRANT OWNERSHIP ON INTEGRATION payers_pipy_access_integration TO ROLE SYSADMIN;
 GRANT OWNERSHIP ON INTEGRATION payers_allow_all_integration TO ROLE SYSADMIN;
 
+
+
+
+
+
+------- DO NOT USE ANYTHING BELOW HERE --------------
+
+
+
 USE ROLE SYSADMIN;
 
 -- Create email integration for streamlit app
