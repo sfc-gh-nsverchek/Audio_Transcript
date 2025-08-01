@@ -228,7 +228,7 @@ def get_similar_transcripts_cortex_search(question):
     response = (
         root.databases[DATABASE]
         .schemas[SCHEMA]
-        .cortex_search_services["CALL_CENTER_RECORDING_SEARCH_TX"]
+        .cortex_search_services["CALL_CENTER_RECORDING_SEARCH_TX2"]
         .search(
             question,
             ['CHUNK', 'RELATIVE_PATH'],
